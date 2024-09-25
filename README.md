@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Este repositório serve para aprendermos o fluxo de trabalho de pull request de GitHub, uma maneira popular de criar e revisar o código.
 
 # EDITOR
